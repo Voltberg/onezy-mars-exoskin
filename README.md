@@ -2,7 +2,7 @@
 
 **CANON SYNOPSIS (Updated With Emergency Gel Puck)**
 
-By Craig (@Voltberg)  
+By Voltberg  
 First published January 2026  
 Licensed under Apache License 2.0
 
