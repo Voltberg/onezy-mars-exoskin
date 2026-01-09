@@ -1,4 +1,7 @@
 Core Concept: The Grown Living Exoskeleton ("Mars Suit")
+*By Craig (@Voltberg) First published January 2026
+Licensed under Apache License 2.0
+
 We’re theorizing a bioengineered second skin that's literally grown in a bioreactor from the base up, tailored to the wearer’s exact body scan. It's not assembled or 3D-printed—it's biologically cultivated like an organ, combining ultra-strong nanomaterials with living tissues. The goal: a suit that's stronger, smarter, and more integrated than any rigid exoskeleton or spacesuit, perfect for Mars (extreme radiation, low gravity, dust storms) but revolutionary for Earth too (military, medical, everyday enhancement).
 Key features:
 
