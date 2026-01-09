@@ -1,9 +1,8 @@
 # Onezy — Mars Exoskin
 
 **CANON SYNOPSIS (Updated With Emergency Gel Puck)**
-
-By Voltberg  
-First published January 2026  
+*
+By Craig (@Voltberg) First published January 2026
 Licensed under Apache License 2.0
 
 **The Onezy is a fully grown, constraint-driven survival organism designed to keep a human alive, functional, and psychologically stable in the most hostile environments imaginable — especially Mars.**
